@@ -1,0 +1,231 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+.main{
+    width: 100%;
+    height: 601px;
+    float: left;
+    background-image: url("../img/main-image.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.content{
+    width: 300px;
+    height: 480px;
+    margin: 55px 0px 0px 490px;
+    border-radius: 10px;
+    float: left;
+    background-color: white;
+}
+
+.div-login{
+    width: 100%;
+    height: 40px;
+    margin-top: 30px;
+    float: left;
+}
+
+.login{
+    width: 55px;
+    height: 35px;
+    margin-left: 125px;
+    float: left;
+}
+
+.login-text{
+    font-size: 24px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+.center-content{
+    width: 100%;
+    height: 230px;
+    float: left;
+}
+
+.login-field{
+    width: 100%;
+    height: 210px;
+    margin-top: 20px;
+    float: left;
+}
+
+.username-field{
+    width: 85%;
+    height: 60px;
+    margin-left: 20px;
+    float: left;
+}
+
+.username-text{
+    width: 100%;
+    height: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    float: left;
+}
+
+.your-username{
+    width: 100%;
+    height: 30px;
+    float: left;
+}
+
+
+.password-field{
+    width: 85%;
+    height: 60px;
+    margin-top: 10px;
+    margin-left: 20px;
+    float: left;
+}
+
+.password-text{
+    width: 100%;
+    height: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    float: left;
+}
+
+.your-password{
+    width: 100%;
+    height: 30px;
+    float: left;
+}
+
+.div-forgot-password{
+    width: 120px;
+    height: 20px;
+    margin-top: 5px;
+    margin-right: 15px;
+    float: right;
+}
+
+.forgot-password{
+    width: 120px;
+    height: 20px;
+    float: right;
+}
+
+.div-login-button{
+    width: 90%;
+    height: 35px;
+    margin-top: 15px;
+    margin-left: 15px;
+    border-radius: 25px;
+    float: left;
+    background-image: url("../img/main-image.jpg");
+    background-size: 650px;
+}
+
+.login-button{
+    width: 30%;
+    height: 30px;
+    margin-top: 5px;
+    margin-left: 97px;
+    float: left;
+    text-align: center;
+}
+
+.bottom-content{
+    width: 100%;
+    height: 180px;
+    float: left;
+    /* background-color: red; */
+}
+
+.div-top-or-sign-up-using{
+    width: 100%;
+    height: 80px;
+    margin-top: 10px;
+    float: left;
+}
+
+.top-or-sign-up-using{
+    width: 135px;
+    height: 80px;
+    margin-left: 75px;
+    float: left;
+}
+
+.top-or-sign-up-using-span{
+    width: 120px;
+    height: 30px;
+    margin-left: 17px;
+    float: left;
+}
+
+.top-or-sign-up-using-text{
+    color: gray;
+}
+
+.div-icons{
+    width: 80px;
+    height: 30px;
+    margin-left: 40px;
+    float: left;
+}
+
+.facebook-icon{
+    width: 20px;
+    height: 30px;
+    float: left;
+}
+
+
+.twitter-icon{
+    width: 20px;
+    height: 30px;
+    margin-left: 5px;
+    float: left;
+}
+
+
+.google-icon{
+    width: 20px;
+    height: 30px;
+    margin-left: 10px;
+    float: left;
+}
+
+
+.div-bottom-or-sign-up-using{
+    width: 140px;
+    height: 50px;
+    margin: 10px 0px 0px 82px;
+    float: left;
+    /* background-color: blue; */
+}
+
+.bottom-or-sign-up-using{
+    width: 100%;
+    height: 30px;
+    float: left;
+}
+
+.bottom-or-sign-up-using-span{
+    width: 120px;
+    height: 30px;
+    margin-left: 10px;
+    float: left;
+}
+
+.bottom-or-sign-up-using-text{
+    color: gray;
+}
+
+
+.bottom-sign-up-span{
+    width: 60%;
+    height: 20px;
+    margin-left: 40px;
+    float: left;
+    /* background-color: white; */
+}
+
+.bottom-sign-up-text{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
